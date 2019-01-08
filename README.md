@@ -6,6 +6,7 @@ solve leetcode problems
 
 ### 2019-01-08
 
-Input: -123 % 10
-Output: -3
-??????????????
+> Input: -123 % 10 
+
+> Output: -3
+
