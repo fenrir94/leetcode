@@ -26,14 +26,20 @@ public:
     
     int calunique(vector<char>& subs, int precount){
         int count = precount;
+        int temp = 0;
         for(int i=0; i< subs.size()-1;++i)
         {
             if(subs[i]==subs.back())
             {
-                count--;
-                if(count <0) count = 0;
-                return count;
+                temp++;
+                if(temp >= 2) return count;
             }
+        }
+        if(temp == 1)
+        {
+            count--;
+            if(count < 0) count = 0;
+            return count;
         }
         count++;
         return count;
