@@ -6,15 +6,13 @@ solve leetcode problems
 
 ### 2019-01-08
 
-> Input: -123 % 10 
+Input: -123 % 10 
 
-> Output: -3
+Output: -3
 
 ### 2019-01-09
 
-> Intput: "BABABBABAA" 
+Time Out
 
-> Output: 32 
 
-> Expected: 35 
 
