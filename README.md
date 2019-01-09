@@ -10,3 +10,11 @@ solve leetcode problems
 
 > Output: -3
 
+### 2019-01-09
+
+> Intput: "BABABBABAA" 
+
+> Output: 32 
+
+> Expected: 35 
+
