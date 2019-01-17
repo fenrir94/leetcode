@@ -14,5 +14,7 @@ Output: -3
 
 Time Out
 
+### 2019-01-17
 
-
+vector 2차원 할당 
+> <code> vector<vector<int>> name(5, vector<int>(6,0)); </code>
